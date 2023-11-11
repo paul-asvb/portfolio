@@ -1,75 +1,98 @@
 [[projects]]
 partner = "deepc.ai"
-from = "11.2023"
-to = "08.2018"
+position = "Founder, Technical Lead, Developer"
+to = "11.2023"
+from = "08.2018"
 description = "Customisierung in Docker für Ortharc Archive Server Entwicklung REST-API für ML Backend in python mit Flask, Aufbau IT-Infrastructure in AWS"
 tech = ["node", "meteor", "cornerstone"]
 
 
 [[projects]]
 partner = "oldthing.de"
-description = "Weiterentwicklung Legacy-Code: custom PHP Plattform, keine externen Depencendies"
+position = "Fullstack Developer - Freelancer"
+description = """Planung einer Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
+Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
+Verbesserung von Frontend- und Backend-Komponenten."""
 from = "02.2018"
 to = "08.2018"
-tech = ["node", "meteor", "cornerstone", "PHP"]
+tech = ["node", "meteor", "Vue", "PHP"]
 
 [[projects]]
 partner = "wedavinci.com"
+position = "Frontend Developer - Freelancer"
+from = "02.2018"
+to = "08.2018"
 description = "Entwickling einer Plattform für Ideation. "
 
 [[projects]]
 partner = "dezos.io:"
+position = "Frontend Developer - Freelancer"
+from = "02.2018"
+to = "08.2018"
 description = "dezos.io: Prototype parse platttform Backend mit ERC-223 Schnitstelle mit API"
 
 
 [[projects]]
 partner = "BMW AG"
+position = "Frontend Developer - Freelancer"
+from = "02.2018"
+to = "08.2018"
 description = " Entwicklung Android/IOS-App gegen parse plattform Backend  Android und UWP App für Debuggen von Fahrzeugen in Werkstätten. React-Native App gegen Legacy C# Backend über REST und Websocket"
 
 
 [[projects]]
-partner = "Microsoft"
+partner = "Microsoft Deutschland"
+position = "Frontend Developer - Freelancer"
+from = "02.2018"
+to = "08.2018"
 description = "Microsoft Deutschland: Entwickung Windows UWP App für Vertrieb Gamification. React Native App mit Python Django Backend"
 
 
 [[projects]]
 partner = "Bau-Fritz"
+position = "Frontend Developer - Freelancer"
+from = "02.2018"
+to = "08.2018"
 description = "Bau-Fritz GmbH & Co. KG: Traumhauskonfigurator Custom Single Page Application in Elm mit custom REST expressJS Backend mit Anbindung an:"
 
 
 [[projects]]
 partner = "Smartlane.de"
-
-key = "Continuous Integration mit heroku und MongoLab als Develop Deployment und Docker auf EC2"
-
-key = "als Production Enviroment"
-
-key = "React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen"
-
-key = "React mit Material UI und LeafletJS Integration gegen Legacy Python Backend"
-key = "März 2017 - Dezember 2017"
+position = "Frontend Developer - Freelancer"
+from = "02.2017"
+to = "08.2017"
+description = """"React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen
+React mit Material UI und LeafletJS Integration gegen Legacy Python Backend"""
 
 [[projects]]
 partner = "brainworks.de"
-key = "Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in"
+position = "Frontend Developer - Freelancer"
+from = "02.2017"
+to = "08.2017"
+description = """Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in"
 key = "verteilten WLAN-Systemen. Angular 1.5 mit Bootstrap gegen custom NodeJS Backend"
 key = "Weiterentwicklung brainPortal: Custom PHP-Admin-Interface zur Verwaltung von Capture Portalen in öffentlichen WLAN-Umgebungen"
 key = "Javascript & HTML 5"
 key = "August 2017"
 key = "Juli 2016"
 key = "Mai 2016 - November 2016"
-key = "Februar 2016"
+key = "Februar 2016"""
 
 [[projects]]
-
 partner = "sylique GmbH: rapid Prototyping für Investorengespräche"
+position = "Frontend Developer - Freelancer"
+from = "02.2017"
+to = "08.2017"
 key = "September 2015, Januar 2016Mini CMS durch Google Spreadsheets über AWS Lambda mit Build auf AWS S3"
 
 [[projects]]
-partner = "CIP Marketing GmbH: Webtool zur Verwaltung eines Pools von über 1000 Freelancern"
-key = "Angular 2 Ionic App mit Webpack als BuildTool an Loopback-API"
-key = "ReactJS und VueJS Prototypen für einzelne Screens"
-key = "Angular 2 Web-Applikation mit Strongloop Backend, Elasticsearch, RethinkDB"
+partner = "CIP Marketing GmbH"
+position = "Frontend Developer - Freelancer"
+from = "02.2017"
+to = "08.2017"
+description = """: Webtool zur Verwaltung eines Pools von über 1000 Freelancern
+Angular 2 Ionic App mit Webpack als BuildTool an Loopback-API, ReactJS und VueJS Prototypen für einzelne Screens"
+Angular 2 Web-Applikation mit Strongloop Backend, Elasticsearch, RethinkDB"""
 
 
 [[projects]]
@@ -78,51 +101,52 @@ key = " Interaktive HTML 5 Banner, CreateJS-Framework mit Analytics-API"
 
 [[projects]]
 partner = "Luxottica GmbH"
-
 key = "Luxottica Group S.p.A.: HTML 5 Mini-Shop an Intranet-API, Vanilla ES5"
 
 [[projects]]
 partner = "gutefrage.net"
-key = "Oktober 2016 - März 2017"
-key = "Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System"
+from = "Oktober 2016 - März 2017"
+description = """"Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System"
 key = "Mitarbeit am Relaunch des neuen custom JS Frontends, SemanicUI mit VanillaJS"
-key = "Weiterentwicklung diverser interner Tools in Angular 1.5"
+key = "Weiterentwicklung diverser interner Tools in Angular 1.5"""
 
 [[projects]]
 partner = "popularc.com"
-key = "Oktober 2015 - Oktober 2016Entwicklung Architekur-Plattform: Angular 1 Frontend, UI-Router, Grunt als Build-Tool"
+from = "Oktober 2015 - Oktober 2016"
+key = """Entwicklung Architekur-Plattform: Angular 1 Frontend, UI-Router, Grunt als Build-Tool"
 key = "Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM"
 key = "Azure Blob API Implementation für Dateimanagment, Angular 2 Admin-Backend"
 key = "Mailserver mit Nodemailer und Pug, Hosting: Azure"
-key = "Entwicklung Content Marketing-Blog mit CMS auf Ghost-Basis mit IFTTT Social-Media-Posting"
+key = "Entwicklung Content Marketing-Blog mit CMS auf Ghost-Basis mit IFTTT Social-Media-Posting"""
 
 [[projects]]
 partner = "LMU Phonestudy Autismusforschungs-App"
-key = "Januar 2015 - August 2016"
-key = "Entwicklung eines Experience-Sampling Moduls für bestehende Android-App"
-key = "Definierung und Entwicklung von APIs für modulübergreifende Aufrufe"
+from = "Januar 2015 - August 2016"
+description = """Entwicklung eines Experience-Sampling Moduls für bestehende Android-App"
+key = "Definierung und Entwicklung von APIs für modulübergreifende Aufrufe"""
 
 
 [[projects]]
 partner = "furnitecs.com"
-key = "April 2015 - August 2015"
-key = "Mailchimp und Mandill API Integration in Custom NodeJS Backend"
-key = "Eigenes ORM für SQL-Lite mit Server-Syncronisierung"
+from = "April 2015 - August 2015"
+description = """Mailchimp und Mandill API Integration in Custom NodeJS Backend"
+key = "Eigenes ORM für SQL-Lite mit Server-Syncronisierung"""
 
 
 [[projects]]
 partner = "rapidfacture.com"
-key = "Januar 2014 - Oktober 2015"
-key = "Online CAD auf D3.js-Basis mit Angular 1.4 Frontend mit UI-Router und Grunt als Buildtool"
-key = "Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM"
-key = "Hosting auf eigenen Servern mit Gitlab und Bash-Skripten als CI-Tool"
+from = "Januar 2014"
+to = "Oktober 2015"
+description = """Online CAD auf D3.js-Basis mit Angular 1.4 Frontend mit UI-Router und Grunt als Buildtool
+Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM
+Hosting auf eigenen Servern mit Gitlab und Bash-Skripten als CI-Tool"""
 
 [[projects]]
 partner = "propellermuetze.com"
-key = "2009-2012"
-key = "Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt"
-key = "NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
+from = "2009-2012"
+description = """Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt
+NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
 key = "Mailserver mit Nodemailer und Jade/Pug, Hosting: AWS"
 key = "MongoDB mit mongoose als ORM, Hosting: Mongolab"
 key = "Custom JS Frontend mit Bootstrap-Template, Custom PHP-Backend"
-key = "Custom PHP-Shop mit Paypal-API, danach Wordpress mit Woocommerce"
+key = "Custom PHP-Shop mit Paypal-API, danach Wordpress mit Woocommerce"""
