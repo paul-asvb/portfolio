@@ -4,51 +4,33 @@ import content from "./projects.toml";
 const projects = content.projects;
 
 const App = () => (
-  <div class="container mx-auto py-8 flex flex-col">
+  <div class="container mx-auto py-8 flex flex-col w-2/3 print:w-full">
     <div class="col-span-4 sm:col-span-3 bg-white ">
       <div class="flex flex-col items-center">
         <img
-          src="https://randomuser.me/api/portraits/men/94.jpg"
-          class="w-32 h-32 bg-gray-300 rounded-full mb-4 shrink-0"
+          src="/paul_mayer.png"
+          class="w-32 h-32 object-cover bg-gray-300 rounded-full mb-4 shrink-0"
         ></img>
-        <h1 class="text-xl font-bold">John Doe</h1>
+        <h1 class="text-xl font-bold">Paul Mayer</h1>
         <p class="text-gray-600">Software Developer</p>
-        <div class="mt-6 flex flex-wrap gap-4 justify-center">
-          <a
-            href="#"
-            class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
-          >
-            Contact
-          </a>
-          <a
-            href="#"
-            class="bg-gray-300 hover:bg-gray-400 text-gray-700 py-2 px-4 rounded"
-          >
-            Resume
-          </a>
-        </div>
-      </div>
-      <div class="flex flex-col">
-        <span class="text-gray-600 uppercase font-bold tracking-wider mb-2">
-          Skills
-        </span>
-        <ul>
-          <li class="mb-2">JavaScript</li>
-          <li class="mb-2">React</li>
-          <li class="mb-2">Node.js</li>
-          <li class="mb-2">HTML/CSS</li>
-          <li class="mb-2">Tailwind Css</li>
-        </ul>
+
       </div>
     </div>
     <h2 class="text-xl font-bold mb-4">About Me</h2>
     <p class="text-gray-700">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus est
-      vitae tortor ullamcorper, ut vestibulum velit convallis. Aenean posuere
-      risus non velit egestas suscipit. Nunc finibus vel ante id euismod.
-      Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-      cubilia Curae; Aliquam erat volutpat. Nulla vulputate pharetra tellus,
-      in luctus risus rhoncus id.
+      I'm a passionate software developer with a keen interest in crafting efficient and innovative solutions to complex problems. My journey in the realm of coding began with a fascination for turning lines of code into functional, user-friendly applications.
+
+      With a solid foundation in [Programming Languages/Frameworks], I thrive in dynamic environments where I can apply my skills to create robust and scalable software. From designing elegant algorithms to troubleshooting intricate bugs, I find joy in every step of the development process.
+
+      My commitment to staying abreast of the latest industry trends and technologies ensures that my work is not only cutting-edge but also aligns seamlessly with the ever-evolving landscape of software development. I have hands-on experience in [specific technologies, tools, or methodologies] and a proven track record of delivering high-quality software solutions within deadlines.
+
+      Collaboration is at the heart of my approach to development. I enjoy working with cross-functional teams, drawing on diverse perspectives to create software that not only meets but exceeds expectations. Whether it's front-end design, back-end development, or anything in between, I am driven by the challenge of turning conceptual ideas into tangible, user-centric products.
+
+      In addition to my technical skills, I understand the importance of effective communication in translating complex technical concepts into layman's terms. I take pride in my ability to articulate ideas clearly and concisely, fostering a collaborative and inclusive environment for all stakeholders involved.
+
+      Outside the realm of coding, you'll likely find me exploring new technologies, contributing to open-source projects, or immersed in a good book on software architecture. I am continually seeking opportunities to learn, grow, and contribute my skills to projects that make a meaningful impact.
+
+
     </p>
 
     <h3 class="font-semibold text-center mt-3 -mb-2">Find me on</h3>
