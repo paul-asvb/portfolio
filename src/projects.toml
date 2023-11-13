@@ -1,30 +1,61 @@
 [[projects]]
-partner = "deepc.ai"
+partner = "deepc GmbH"
 position = "Founder, Technical Lead, Developer"
 to = "11.2023"
 from = "08.2018"
-description = "Customisierung in Docker für Ortharc Archive Server Entwicklung REST-API für ML Backend in python mit Flask, Aufbau IT-Infrastructure in AWS"
-tech = ["node", "meteor", "cornerstone"]
+description = """
+Customisierung in Docker für Ortharc Archive Server Entwicklung REST-API für ML Backend in python mit Flask, Aufbau IT-Infrastructure in AWS
+"""
+tech = ["rust", "kubernetes", "knative", "aws", "js", "react", "vue"]
 
+[[projects]]
+partner = "Accenture - O2online"
+position = "Fullstack Developer - Freelancer"
+from = "10.2020"
+to = "04.2020"
+description = """
+Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
+Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
+Verbesserung von Frontend- und Backend-Komponenten.
+"""
+tech = ["go", "kubernetes", "html", "css", "aws"]
+
+
+[[projects]]
+partner = "ivd24.de"
+position = "Fullstack Developer - Freelancer"
+from = "01.2021"
+to = "01.2019"
+description = """
+Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
+Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
+Verbesserung von Frontend- und Backend-Komponenten.
+"""
+tech = ["go", "css", "vue", "php", "tailwind", "docker"]
 
 [[projects]]
 partner = "oldthing.de"
 position = "Fullstack Developer - Freelancer"
-description = """Planung einer Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
-Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
-Verbesserung von Frontend- und Backend-Komponenten."""
 from = "02.2018"
 to = "08.2018"
-tech = ["node", "meteor", "Vue", "PHP"]
+description = """
+Planung einer Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
+Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
+Verbesserung von Frontend- und Backend-Komponenten.
+"""
+tech = ["node", "meteor", "vue", "php"]
 
 [[projects]]
 partner = "wedavinci.com"
 position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
-description = """Entwickling einer Plattform für Ideation. 
+description = """
+Entwickling einer Plattform für Ideation. 
 WeDaVinci is an AI-powered innovation platform that helps organizations identify trends, opportunities, and challenges. 
-It enables users to co-create solutions with AI assistants, receive immediate feedback, and iterate quickly."""
+It enables users to co-create solutions with AI assistants, receive immediate feedback, and iterate quickly.
+"""
+tech = ["node", "lambda", "react", "aws", "docker"]
 
 
 [[projects]]
@@ -32,7 +63,11 @@ partner = "BMW AG"
 position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
-description = " Entwicklung Android/IOS-App gegen parse plattform Backend  Android und UWP App für Debuggen von Fahrzeugen in Werkstätten. React-Native App gegen Legacy C# Backend über REST und Websocket"
+description = """
+Entwicklung Android/IOS-App gegen parse plattform Backend  Android und UWP App für Debuggen von Fahrzeugen in Werkstätten.
+React-Native App gegen Legacy C# Backend über REST und Websocket.
+"""
+tech = ["node", "react native", "android", "ios"]
 
 
 [[projects]]
@@ -40,126 +75,167 @@ partner = "Microsoft Deutschland"
 position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
-description = "Microsoft Deutschland: Entwickung Windows UWP App für Vertrieb Gamification. React Native App mit Python Django Backend"
-
+description = """
+Entwickung Windows UWP App für Vertrieb Gamification. Automatisierung von Marketing Prozessen für externe Agenturen.
+"""
+tech = ["node", "python", "gjango", "React"]
 
 [[projects]]
 partner = "Bau-Fritz"
 position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
-description = "Bau-Fritz GmbH & Co. KG: Traumhauskonfigurator Custom Single Page Application in Elm mit custom REST expressJS Backend mit Anbindung an:"
-
+description = """
+Bau-Fritz GmbH & Co. KG: Traumhauskonfigurator Custom Single Page Application.
+"""
+tech = ["elm", "CSS"]
 
 [[projects]]
 partner = "Smartlane.de"
 position = "Frontend Developer - Freelancer"
 from = "02.2017"
 to = "08.2017"
-description = """"React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen
-React mit Material UI und LeafletJS Integration gegen Legacy Python Backend"""
+description = """
+React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen. Skalierung von bestehendem Frontend.
+"""
+tech = ["React", "material js", "leaflet js"]
 
 [[projects]]
 partner = "brainworks.de"
 position = "Frontend Developer - Freelancer"
 from = "02.2017"
 to = "08.2017"
-description = """Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in"
-key = "verteilten WLAN-Systemen. Angular 1.5 mit Bootstrap gegen custom NodeJS Backend"
-key = "Weiterentwicklung brainPortal: Custom PHP-Admin-Interface zur Verwaltung von Capture Portalen in öffentlichen WLAN-Umgebungen"
-key = "Javascript & HTML 5"""
-
+description = """
+Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in verteilten WLAN-Systemen. 
+Weiterentwicklung brainPortal: Custom PHP-Admin-Interface zur Verwaltung von Capture Portalen in öffentlichen WLAN-Umgebungen
+"""
+tech = ["angular", "bootstrap", "express", "node"]
 
 [[projects]]
-partner = "sylique GmbH: rapid Prototyping für Investorengespräche"
+partner = "sylique GmbH"
 position = "Frontend Developer - Freelancer"
-from = "02.2017"
-to = "08.2017"
-key = "September 2015, Januar 2016Mini CMS durch Google Spreadsheets über AWS Lambda mit Build auf AWS S3"
+from = "01.2016"
+to = "08.2015"
+description = """
+rapid Prototyping für Investorengespräche, Mini CMS durch Google Spreadsheets über AWS Lambda mit Build auf AWS S3
+"""
+tech = ["react", "bootstrap", "aws", "lambda"]
 
 [[projects]]
 partner = "CIP Marketing GmbH"
-position = "Frontend Developer - Freelancer"
-from = "02.2017"
-to = "08.2017"
-description = """: Webtool zur Verwaltung eines Pools von über 1000 Freelancern
-Angular 2 Ionic App mit Webpack als BuildTool an Loopback-API, ReactJS und VueJS Prototypen für einzelne Screens"
-Angular 2 Web-Applikation mit Strongloop Backend, Elasticsearch, RethinkDB"""
+position = "Mobile App Developer - Freelancer"
+from = "02.2016"
+to = "01.2015"
+description = """
+Webtool zur Verwaltung eines Pools von über 1000 Freelancern
+"""
+tech = ["angular", "material", "strongloop", "node", "elasticsearch", "rethink"]
 
 
 [[projects]]
 partner = "Leerdammer GmbH"
-key = " Interaktive HTML 5 Banner, CreateJS-Framework mit Analytics-API"
+position = "Frontend Developer - Freelancer"
+from = "05.2015"
+to = "04.2015"
+description = """
+Interaktive HTML 5 Banner, CreateJS-Framework mit Analytics-API
+"""
+tech = ["html", "createjs", "node"]
 
 [[projects]]
 partner = "Luxottica GmbH"
-key = "Luxottica Group S.p.A.: HTML 5 Mini-Shop an Intranet-API, Vanilla ES5"
+position = "Frontend Developer - Freelancer"
+from = "05.2015"
+to = "04.2015"
+description = """
+HTML 5 Mini-Shop für interne Transaktionen für Sonnenbrillen Brand Ray-Ban.
+"""
+tech = ["html", "js", "node"]
 
 [[projects]]
 partner = "gutefrage.net"
+position = "Junior Developer - Angestellt"
 from = "08.2016"
 to = "07.2017"
-description = """"Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System"
-key = "Mitarbeit am Relaunch des neuen custom JS Frontends, SemanicUI mit VanillaJS"
-key = "Weiterentwicklung diverser interner Tools in Angular 1.5"""
+description = """"Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System.
+Mitarbeit am Relaunch des neuen Frontends.
+Weiterentwicklung diverser interner Tools in Angular 1.5"""
+tech = ["scala", "java", "js", "angular", "semantic ui"]
 
 [[projects]]
 partner = "popularc.com"
-from = "10.2015"
+position = "Founder, CTO"
 to = "10.2016"
-key = """Entwicklung Architekur-Plattform: Angular 1 Frontend, UI-Router, Grunt als Build-Tool"
-key = "Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM"
-key = "Azure Blob API Implementation für Dateimanagment, Angular 2 Admin-Backend"
-key = "Mailserver mit Nodemailer und Pug, Hosting: Azure"
-key = "Entwicklung Content Marketing-Blog mit CMS auf Ghost-Basis mit IFTTT Social-Media-Posting"""
+from = "10.2015"
+description = """
+Entwicklung Architekur-Plattform für Digialisierung von Planungsprozessen.
+"""
+tech = ["pug", "ghost", "js", "angular", "grunt", "mongoose", "loopback"]
 
 [[projects]]
 partner = "LMU Phonestudy Autismusforschungs-App"
-from = "01.2015"
+position = "Werkstudent - Angestellt"
 to = "08.2016"
-description = """Entwicklung eines Experience-Sampling Moduls für bestehende Android-App"
-key = "Definierung und Entwicklung von APIs für modulübergreifende Aufrufe"""
-
+from = "01.2015"
+description = """
+Entwicklung eines Experience-Sampling Moduls für bestehende Android-App.
+Definierung und Entwicklung von APIs für modulübergreifende Aufrufe.
+Teilnehmer von Studien wurden über mehrere Monate befragt mit Notifications einer Android App"""
+tech = ["android", "php"]
 
 [[projects]]
 partner = "furnitecs.com"
+position = "Frontend Developer - Freelancer"
 from = "03.2015"
 to = "08.2015"
-description = """Mailchimp und Mandill API Integration in Custom NodeJS Backend"
-key = "Eigenes ORM für SQL-Lite mit Server-Syncronisierung"""
+description = """
+Mailchimp und Mandill API Integration in Custom NodeJS Backend. Einfache Erstellung von Marketing Emails für Kunden.
+"""
+tech = ["mailchimp", "mandril", "node", "express"]
 
 
 [[projects]]
 partner = "rapidfacture.com"
+position = "Frontend Developer - Freelancer"
 from = "01.2014"
 to = "10.2015"
-description = """Rapidfacture is a company that provides a software solution for digitizing production processes. 
+description = """
+Rapidfacture is a company that provides a software solution for digitizing production processes. 
 They offer an ERP system called Automation Pro, which allows companies to automate and streamline their production processes. 
 Rapidfacture's goal is to help companies save time, increase delivery reliability, and improve overall efficiency in their production operations.
-Online CAD auf D3.js-Basis mit Angular 1.4 Frontend mit UI-Router und Grunt als Buildtool
-Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM
-Hosting auf eigenen Servern mit Gitlab und Bash-Skripten als CI-Tool"""
+"""
+tech = ["android", "php"]
 
 
 [[projects]]
 partner = "Hello GmbH"
+position = "Junior Art Direktor - Angestellt"
 from = "01.2013"
 to = "01.2014"
-description = """Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt
-NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
-key = "Mailserver mit Nodemailer und Jade/Pug, Hosting: AWS"
-key = "MongoDB mit mongoose als ORM, Hosting: Mongolab"
-key = "Custom JS Frontend mit Bootstrap-Template, Custom PHP-Backend"
-key = "Custom PHP-Shop mit Paypal-API, danach Wordpress mit Woocommerce"""
+description = """
+Arbeit im Creativ-Team. Gewinnung neuer Kunden durch Teilnahme an Pitches.
+Betreung von Altkunden mit Entwurf neuer Kampagnen. Komplette Umsetzung von Pitch bis zu Reinzeichnung.
+"""
+tech = ["adobe suite", "blender", "js", "html"]
 
 
 [[projects]]
 partner = "propellermuetze.com"
+position = "Founder"
 from = "2009"
 to = "2023"
-description = """Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt
-NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
-key = "Mailserver mit Nodemailer und Jade/Pug, Hosting: AWS"
-key = "MongoDB mit mongoose als ORM, Hosting: Mongolab"
-key = "Custom JS Frontend mit Bootstrap-Template, Custom PHP-Backend"
-key = "Custom PHP-Shop mit Paypal-API, danach Wordpress mit Woocommerce"""
+description = """
+Sourcing von Fabriken in Südost-Asien für die Produktion von Propellermützen.
+Druchfühung von Import ganzer Container. Export und Versand im kompletten EU-Ausland. Entwurf und Betrieb von Website.
+Entwurf und Druchführung von Marketing-Kampagnien.
+"""
+tech = [
+    "angular",
+    "bootstrap",
+    "grunt",
+    "heroku",
+    "mongoose",
+    "mongo db",
+    "php",
+    "woocommerce",
+]
