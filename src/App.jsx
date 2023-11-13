@@ -7,7 +7,7 @@ const App = () => (
     <div className="flex flex-row w-full justify-between border-b border-paul-900 pb-8 mb-4 items-end">
       <div className="flex flex-row items-end">
         <img
-          src="/paul_mayer.png"
+          src="/paul_mayer.jpg"
           className="w-32 h-32 object-cover bg-gray-300 shrink-0"
         ></img>
         <div className="ml-4 flex flex-col items-left ">
