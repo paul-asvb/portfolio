@@ -1,10 +1,14 @@
 [[projects]]
 partner = "deepc GmbH"
-position = "Founder, Technical Lead, Developer"
+position = "Founder, Technical Lead, Fullstack Developer"
 to = "11.2023"
 from = "08.2018"
 description = """
-Customisierung in Docker für Ortharc Archive Server Entwicklung REST-API für ML Backend in python mit Flask, Aufbau IT-Infrastructure in AWS
+Development of a machine learning algorithm for categorization of CT scans.
+Integration of algorithms into clinical IT systems.
+Development of scalable cloud solutions for processing large amounts of data from different locations.
+User studies for information visualization interfaces.
+Recruitment of a technical team (~15 people).
 """
 tech = ["rust", "kubernetes", "knative", "aws", "js", "react", "vue"]
 
@@ -14,11 +18,10 @@ position = "Fullstack Developer - Freelancer"
 from = "10.2020"
 to = "04.2020"
 description = """
-Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
-Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
-Verbesserung von Frontend- und Backend-Komponenten.
+Maintenance and new development of O2 Germany's online store.
+Collaboration with product designers, project managers and other agencies.
 """
-tech = ["go", "kubernetes", "html", "css", "aws"]
+tech = ["go", "kubernetes", "html", "js", "css", "aws"]
 
 
 [[projects]]
@@ -27,9 +30,9 @@ position = "Fullstack Developer - Freelancer"
 from = "01.2021"
 to = "01.2019"
 description = """
-Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
-Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
-Verbesserung von Frontend- und Backend-Komponenten.
+Migration of a legacy PHP application to a modern, scalable microservice architecture. 
+Analysis of the existing code, updating of the technology stacks, optimization of the databases.
+Improvement of frontend and backend components.
 """
 tech = ["go", "css", "vue", "php", "tailwind", "docker"]
 
@@ -39,19 +42,19 @@ position = "Fullstack Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
 description = """
-Planung einer Migration einer Legacy PHP-Anwendung zu einer modernen, skalierbaren Architektur. 
-Analyse des bestehenden Codes, die Aktualisierung der Technologiestacks, die Optimierung der Datenbanken.
-Verbesserung von Frontend- und Backend-Komponenten.
+Migration of a legacy PHP application to a modern software stack. 
+Workshops with development teams to align on tech stack and methodologies. 
+Analysis of the existing code, updating of the technology stacks, optimization of the databases.
 """
 tech = ["node", "meteor", "vue", "php"]
 
 [[projects]]
 partner = "wedavinci.com"
-position = "Frontend Developer - Freelancer"
+position = "Fullstack Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
 description = """
-Entwickling einer Plattform für Ideation. 
+Developing a platform for ideation, iterating quick over first user feedback and adapting the frontend accordingly. 
 WeDaVinci is an AI-powered innovation platform that helps organizations identify trends, opportunities, and challenges. 
 It enables users to co-create solutions with AI assistants, receive immediate feedback, and iterate quickly.
 """
@@ -60,12 +63,11 @@ tech = ["node", "lambda", "react", "aws", "docker"]
 
 [[projects]]
 partner = "BMW AG"
-position = "Frontend Developer - Freelancer"
+position = "App Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
 description = """
-Entwicklung Android/IOS-App gegen parse plattform Backend  Android und UWP App für Debuggen von Fahrzeugen in Werkstätten.
-React-Native App gegen Legacy C# Backend über REST und Websocket.
+Development of a universal Android/IOS app for Android and UWP app for debugging BMW vehicles in workshops.
 """
 tech = ["node", "react native", "android", "ios"]
 
@@ -86,7 +88,7 @@ position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
 description = """
-Bau-Fritz GmbH & Co. KG: Traumhauskonfigurator Custom Single Page Application.
+Dream House Configurator for customers to manually edit existing houses in a single application.
 """
 tech = ["elm", "CSS"]
 
@@ -96,18 +98,20 @@ position = "Frontend Developer - Freelancer"
 from = "02.2017"
 to = "08.2017"
 description = """
-React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen. Skalierung von bestehendem Frontend.
+React Single Page Application zur Organisiation und Tracking von Lieferfahrzeugen. 
+Skalierung von bestehendem Frontend.
+Development of new features including a large timeline with complex dependencies in the real world.
 """
 tech = ["React", "material js", "leaflet js"]
 
 [[projects]]
 partner = "brainworks.de"
-position = "Frontend Developer - Freelancer"
+position = "Fullstack Developer - Freelancer"
 from = "02.2017"
 to = "08.2017"
 description = """
-Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in verteilten WLAN-Systemen. 
-Weiterentwicklung brainPortal: Custom PHP-Admin-Interface zur Verwaltung von Capture Portalen in öffentlichen WLAN-Umgebungen
+Further development of brainManagment: Admin interface for managing router clusters in distributed WLAN systems. 
+Further development of brainPortal: Custom PHP admin interface for managing capture portals in public WLAN environments
 """
 tech = ["angular", "bootstrap", "express", "node"]
 
@@ -117,17 +121,18 @@ position = "Frontend Developer - Freelancer"
 from = "01.2016"
 to = "08.2015"
 description = """
-rapid Prototyping für Investorengespräche, Mini CMS durch Google Spreadsheets über AWS Lambda mit Build auf AWS S3
+rapid prototyping for investor meetings. Integration of a simple CMS to quickly generate new UIs for potential Inverstors.
 """
 tech = ["react", "bootstrap", "aws", "lambda"]
 
 [[projects]]
 partner = "CIP Marketing GmbH"
-position = "Mobile App Developer - Freelancer"
+position = "Fullstack Developer - Freelancer"
 from = "02.2016"
 to = "01.2015"
 description = """
-Webtool zur Verwaltung eines Pools von über 1000 Freelancern
+Web tool for managing a pool of over 1000 freelancers.
+
 """
 tech = ["angular", "material", "strongloop", "node", "elasticsearch", "rethink"]
 
@@ -138,7 +143,7 @@ position = "Frontend Developer - Freelancer"
 from = "05.2015"
 to = "04.2015"
 description = """
-Interaktive HTML 5 Banner, CreateJS-Framework mit Analytics-API
+Developing of Interactive HTML 5 Banners with 1000s of variants for worldwide online distribution.
 """
 tech = ["html", "createjs", "node"]
 
@@ -148,18 +153,20 @@ position = "Frontend Developer - Freelancer"
 from = "05.2015"
 to = "04.2015"
 description = """
-HTML 5 Mini-Shop für interne Transaktionen für Sonnenbrillen Brand Ray-Ban.
+HTML 5 mini-shop for internal transactions for sunglasses brand Ray-Ban.
 """
 tech = ["html", "js", "node"]
 
 [[projects]]
 partner = "gutefrage.net"
-position = "Junior Developer - Angestellt"
+position = "Junior Frontend Developer - Angestellt"
 from = "08.2016"
 to = "07.2017"
-description = """"Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System.
-Mitarbeit am Relaunch des neuen Frontends.
-Weiterentwicklung diverser interner Tools in Angular 1.5"""
+description = """
+Introduction of Scala backend development.
+Relaunch of the new frontend with modern stack.
+Further development of various internal tools.
+"""
 tech = ["scala", "java", "js", "angular", "semantic ui"]
 
 [[projects]]
@@ -168,7 +175,9 @@ position = "Founder, CTO"
 to = "10.2016"
 from = "10.2015"
 description = """
-Entwicklung Architekur-Plattform für Digialisierung von Planungsprozessen.
+Development of architecture platform for digitalization of planning processes.
+Complete architecture of product and implementation.
+Development of digitalized marketing workflow with automized ad deployment.
 """
 tech = ["pug", "ghost", "js", "angular", "grunt", "mongoose", "loopback"]
 
@@ -178,9 +187,10 @@ position = "Werkstudent - Angestellt"
 to = "08.2016"
 from = "01.2015"
 description = """
-Entwicklung eines Experience-Sampling Moduls für bestehende Android-App.
-Definierung und Entwicklung von APIs für modulübergreifende Aufrufe.
-Teilnehmer von Studien wurden über mehrere Monate befragt mit Notifications einer Android App"""
+Development of an experience sampling module for existing Android app.
+Definition and development of APIs for cross-module calls.
+Participants in studies were surveyed over several months with notifications from an Android app.
+"""
 tech = ["android", "php"]
 
 [[projects]]
@@ -189,7 +199,8 @@ position = "Frontend Developer - Freelancer"
 from = "03.2015"
 to = "08.2015"
 description = """
-Mailchimp und Mandill API Integration in Custom NodeJS Backend. Einfache Erstellung von Marketing Emails für Kunden.
+Mailchimp and Mandill API integration in custom NodeJS backend.
+Easy creation of marketing emails for customers.
 """
 tech = ["mailchimp", "mandril", "node", "express"]
 
@@ -213,8 +224,9 @@ position = "Junior Art Direktor - Angestellt"
 from = "01.2013"
 to = "01.2014"
 description = """
-Arbeit im Creativ-Team. Gewinnung neuer Kunden durch Teilnahme an Pitches.
-Betreung von Altkunden mit Entwurf neuer Kampagnen. Komplette Umsetzung von Pitch bis zu Reinzeichnung.
+Work in the creative team. Acquiring new clients by participating in pitches.
+Supporting existing clients with the design of new campaigns.
+Complete implementation from pitch to final artwork.
 """
 tech = ["adobe suite", "blender", "js", "html"]
 
@@ -225,17 +237,35 @@ position = "Founder"
 from = "2009"
 to = "2023"
 description = """
-Sourcing von Fabriken in Südost-Asien für die Produktion von Propellermützen.
-Druchfühung von Import ganzer Container. Export und Versand im kompletten EU-Ausland. Entwurf und Betrieb von Website.
-Entwurf und Druchführung von Marketing-Kampagnien.
+Sourcing of factories in Southeast Asia for the production of propeller caps.
+Import of entire containers. Export and shipment throughout the EU. Website design and operation.
+Design and implementation of marketing campaigns.
 """
-tech = [
-    "angular",
-    "bootstrap",
-    "grunt",
-    "heroku",
-    "mongoose",
-    "mongo db",
-    "php",
-    "woocommerce",
-]
+tech = ["angular", "bootstrap", "grunt", "heroku", "mongoose", "woocomerce"]
+
+
+[email]
+text = """Dear Mr. Mayer%2C <br>I hope this message finds you well. <br>
+<br>My name is [Your Name]%2C and I am reaching out on behalf of Munich Business Scool regarding the application you submitted for the [Job Title] position.
+<br>We have carefully reviewed your qualifications and are impressed with your experience and skills.
+<br>
+<br>We would like to invite you for an interview at our office located at [Address]%2C on [Date] at [Time]. 
+<br>The interview will be conducted by [Interviewer's Name]%2C and it will provide us with an opportunity to discuss your background%2C experiences%2C and how they align with the requirements of the position.
+<br>
+<br>Please come prepared to discuss specific examples of your work%2C as well as any relevant accomplishments.
+<br>Additionally%2C this will be an excellent opportunity for you to learn more about our company culture and ask any questions you may have about the position.
+<br>
+<br>If the proposed date and time are inconvenient for you%2C please let us know as soon as possible so that we can arrange an alternative schedule. 
+<br>We value your interest in joining our team and look forward to the possibility of working together.
+<br>
+<br>Please confirm your attendance by replying to this email or calling us at [Your Contact Number] by [Confirmation Deadline].
+<br>
+<br>We appreciate your time and consideration and look forward to meeting with you.
+<br>
+<br>Best regards%2C
+<br>
+<br>[Your Full Name]
+<br>[Your Job Title]
+<br>[Your Company]
+<br>[Your Contact Information]
+"""
