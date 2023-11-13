@@ -22,14 +22,9 @@ partner = "wedavinci.com"
 position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
-description = "Entwickling einer Plattform für Ideation. "
-
-[[projects]]
-partner = "dezos.io:"
-position = "Frontend Developer - Freelancer"
-from = "02.2018"
-to = "08.2018"
-description = "dezos.io: Prototype parse platttform Backend mit ERC-223 Schnitstelle mit API"
+description = """Entwickling einer Plattform für Ideation. 
+WeDaVinci is an AI-powered innovation platform that helps organizations identify trends, opportunities, and challenges. 
+It enables users to co-create solutions with AI assistants, receive immediate feedback, and iterate quickly."""
 
 
 [[projects]]
@@ -72,11 +67,8 @@ to = "08.2017"
 description = """Weiterentwicklung brainManagment: Admin-interface zur Verwaltung von Router-Clustern in"
 key = "verteilten WLAN-Systemen. Angular 1.5 mit Bootstrap gegen custom NodeJS Backend"
 key = "Weiterentwicklung brainPortal: Custom PHP-Admin-Interface zur Verwaltung von Capture Portalen in öffentlichen WLAN-Umgebungen"
-key = "Javascript & HTML 5"
-key = "August 2017"
-key = "Juli 2016"
-key = "Mai 2016 - November 2016"
-key = "Februar 2016"""
+key = "Javascript & HTML 5"""
+
 
 [[projects]]
 partner = "sylique GmbH: rapid Prototyping für Investorengespräche"
@@ -105,14 +97,16 @@ key = "Luxottica Group S.p.A.: HTML 5 Mini-Shop an Intranet-API, Vanilla ES5"
 
 [[projects]]
 partner = "gutefrage.net"
-from = "Oktober 2016 - März 2017"
+from = "08.2016"
+to = "07.2017"
 description = """"Einführung Scala Backend-Entwicklung jedoch ohne Beitrag zu Produktiv-System"
 key = "Mitarbeit am Relaunch des neuen custom JS Frontends, SemanicUI mit VanillaJS"
 key = "Weiterentwicklung diverser interner Tools in Angular 1.5"""
 
 [[projects]]
 partner = "popularc.com"
-from = "Oktober 2015 - Oktober 2016"
+from = "10.2015"
+to = "10.2016"
 key = """Entwicklung Architekur-Plattform: Angular 1 Frontend, UI-Router, Grunt als Build-Tool"
 key = "Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM"
 key = "Azure Blob API Implementation für Dateimanagment, Angular 2 Admin-Backend"
@@ -121,29 +115,48 @@ key = "Entwicklung Content Marketing-Blog mit CMS auf Ghost-Basis mit IFTTT Soci
 
 [[projects]]
 partner = "LMU Phonestudy Autismusforschungs-App"
-from = "Januar 2015 - August 2016"
+from = "01.2015"
+to = "08.2016"
 description = """Entwicklung eines Experience-Sampling Moduls für bestehende Android-App"
 key = "Definierung und Entwicklung von APIs für modulübergreifende Aufrufe"""
 
 
 [[projects]]
 partner = "furnitecs.com"
-from = "April 2015 - August 2015"
+from = "03.2015"
+to = "08.2015"
 description = """Mailchimp und Mandill API Integration in Custom NodeJS Backend"
 key = "Eigenes ORM für SQL-Lite mit Server-Syncronisierung"""
 
 
 [[projects]]
 partner = "rapidfacture.com"
-from = "Januar 2014"
-to = "Oktober 2015"
-description = """Online CAD auf D3.js-Basis mit Angular 1.4 Frontend mit UI-Router und Grunt als Buildtool
+from = "01.2014"
+to = "10.2015"
+description = """Rapidfacture is a company that provides a software solution for digitizing production processes. 
+They offer an ERP system called Automation Pro, which allows companies to automate and streamline their production processes. 
+Rapidfacture's goal is to help companies save time, increase delivery reliability, and improve overall efficiency in their production operations.
+Online CAD auf D3.js-Basis mit Angular 1.4 Frontend mit UI-Router und Grunt als Buildtool
 Custom NodeJS Backend mit User- & Auftragsverwaltung, MongoDB mit mongoose als ORM
 Hosting auf eigenen Servern mit Gitlab und Bash-Skripten als CI-Tool"""
 
+
+[[projects]]
+partner = "Hello GmbH"
+from = "01.2013"
+to = "01.2014"
+description = """Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt
+NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
+key = "Mailserver mit Nodemailer und Jade/Pug, Hosting: AWS"
+key = "MongoDB mit mongoose als ORM, Hosting: Mongolab"
+key = "Custom JS Frontend mit Bootstrap-Template, Custom PHP-Backend"
+key = "Custom PHP-Shop mit Paypal-API, danach Wordpress mit Woocommerce"""
+
+
 [[projects]]
 partner = "propellermuetze.com"
-from = "2009-2012"
+from = "2009"
+to = "2023"
 description = """Angular 1.4 Frontend mit Bootstrap, UI-Router, Grunt
 NodeJS Loopback Backend mit Paypal und Easypost API, Hosting: Heroku"
 key = "Mailserver mit Nodemailer und Jade/Pug, Hosting: AWS"

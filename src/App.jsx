@@ -12,7 +12,7 @@ const App = () => (
           class="w-32 h-32 object-cover bg-gray-300 rounded-full mb-4 shrink-0"
         ></img>
         <h1 class="text-xl font-bold">Paul Mayer</h1>
-        <p class="text-gray-600">Software Developer</p>
+        <p class="text-gray-600">Software Developer</p>1
       </div>
     </div>
     <h2 class="text-xl font-bold mb-4">About Me</h2>
