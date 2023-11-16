@@ -78,7 +78,7 @@ position = "Frontend Developer - Freelancer"
 from = "02.2018"
 to = "08.2018"
 description = """
-Entwickung Windows UWP App für Vertrieb Gamification. Automatisierung von Marketing Prozessen für externe Agenturen.
+Development of Windows UWP app for sales gamification. Automation of marketing processes for external agencies.
 """
 tech = ["node", "python", "gjango", "React"]
 
@@ -110,8 +110,8 @@ position = "Fullstack Developer - Freelancer"
 from = "02.2017"
 to = "08.2017"
 description = """
-Further development of brainManagment: Admin interface for managing router clusters in distributed WLAN systems. 
-Further development of brainPortal: Custom PHP admin interface for managing capture portals in public WLAN environments
+Further development of brainManagment: Admin interface for managing router clusters in distributed WIFI systems. 
+Further development of brainPortal: Custom PHP admin interface for managing capture portals in public WIFI environments
 """
 tech = ["angular", "bootstrap", "express", "node"]
 
@@ -121,7 +121,7 @@ position = "Frontend Developer - Freelancer"
 from = "01.2016"
 to = "08.2015"
 description = """
-rapid prototyping for investor meetings. Integration of a simple CMS to quickly generate new UIs for potential Inverstors.
+rapid prototyping for investor meetings. Integration of a simple CMS to quickly generate new UIs for potential Investors.
 """
 tech = ["react", "bootstrap", "aws", "lambda"]
 
@@ -159,7 +159,7 @@ tech = ["html", "js", "node"]
 
 [[projects]]
 partner = "gutefrage.net"
-position = "Junior Frontend Developer - Angestellt"
+position = "Junior Frontend Developer - Employee"
 from = "08.2016"
 to = "07.2017"
 description = """
@@ -177,13 +177,13 @@ from = "10.2015"
 description = """
 Development of architecture platform for digitalization of planning processes.
 Complete architecture of product and implementation.
-Development of digitalized marketing workflow with automized ad deployment.
+Development of digitalized marketing workflow with automated ad deployment.
 """
 tech = ["pug", "ghost", "js", "angular", "grunt", "mongoose", "loopback"]
 
 [[projects]]
 partner = "LMU Phonestudy Autismusforschungs-App"
-position = "Werkstudent - Angestellt"
+position = "Working Student - Employee"
 to = "08.2016"
 from = "01.2015"
 description = """
@@ -199,7 +199,7 @@ position = "Frontend Developer - Freelancer"
 from = "03.2015"
 to = "08.2015"
 description = """
-Mailchimp and Mandill API integration in custom NodeJS backend.
+Mailchimp and Mandrill API integration in custom NodeJS backend.
 Easy creation of marketing emails for customers.
 """
 tech = ["mailchimp", "mandril", "node", "express"]
@@ -220,7 +220,7 @@ tech = ["android", "php"]
 
 [[projects]]
 partner = "Hello GmbH"
-position = "Junior Art Direktor - Angestellt"
+position = "Junior Art Director - Employee"
 from = "01.2013"
 to = "01.2014"
 description = """
@@ -246,7 +246,7 @@ tech = ["angular", "bootstrap", "grunt", "heroku", "mongoose", "woocomerce"]
 
 [email]
 text = """Dear Mr. Mayer%2C <br>I hope this message finds you well. <br>
-<br>My name is [Your Name]%2C and I am reaching out on behalf of Munich Business Scool regarding the application you submitted for the [Job Title] position.
+<br>My name is [Your Name]%2C and I am reaching out on behalf of Munich Business School regarding the application you submitted for the [Job Title] position.
 <br>We have carefully reviewed your qualifications and are impressed with your experience and skills.
 <br>
 <br>We would like to invite you for an interview at our office located at [Address]%2C on [Date] at [Time]. 

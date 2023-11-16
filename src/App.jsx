@@ -48,13 +48,13 @@ const App = () => (
 
     <h2 className="text-2xl font-bold mb-4 text-paul-900">About Me</h2>
     <p>
-      I am a passionate software developer and entrepreneur with a keen interest
+    I am a passionate software developer and entrepreneur with a keen interest
       in crafting efficient and innovative solutions to complex problems. My
-      journey in the realm of coding began as a young boy with writing programs
-      for my own entertainment. Besides my interest in computers i always had a
-      strong pull towards entrepreneurship, i started multiple companies with
-      variying levels of success. My latest company deepc, based here in munich,
-      has grown to around 60 people and offices in the UK, US and Australia.
+      journey in the realm of coding began as a young boy writing programs
+      for my entertainment. Besides my interest in computers I always had a
+      strong pull towards entrepreneurship, I started multiple companies with
+      varying levels of success. My latest company deepc, based here in Munich,
+      has grown to around 60 people and offices in the UK, US, and Australia.
     </p>
     <p>
       My commitment to staying abreast of the latest industry trends and
@@ -64,15 +64,15 @@ const App = () => (
       importance of effective communication in translating complex technical
       concepts into layman's terms.
     </p>
-    <p className="">
+    <p >
       Articulating ideas and concepts clearly and concisely, fostering a
-      collaborative and inclusive environment and motivating my peers and
-      students will help me to not only transfer knowledge, but spark the
-      entrepreneurial spirit. We all want work in dynamic environments where
+      collaborative and inclusive environment, and motivating my peers and
+      students will help me not only transfer knowledge but spark the
+      entrepreneurial spirit. We all want to work in dynamic environments where
       innovation brings a sense of joy and accomplishment. I enjoy working with
       cross-functional teams, drawing on diverse perspectives to create products
-      and services that not only meets but exceeds expectations. I want to
-      learn, grow, and contribute my skills in a way that make a meaningful
+      and services that not only meet but exceed expectations. I want to
+      learn, grow, and contribute my skills in a way that makes a meaningful
       impact.
     </p>
     <h2 className="text-2xl font-bold mt-6 mb-4">Education</h2>
